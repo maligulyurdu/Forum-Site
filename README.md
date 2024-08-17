@@ -1,4 +1,4 @@
-# My Project
+# Forum Site Web Application
 This is a web application that uses Spring Boot for the backend and ReactJS for the frontend.
 ## Description
 This project is a simple web application designed to manage user posts, comments and more. The backend is powered by Spring Boot, and the frontend is developed using ReactJS.

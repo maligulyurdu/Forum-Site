@@ -16,8 +16,12 @@ This project is a simple web application designed to manage user posts, comments
 
 ### Frontend
 1. Navigate to the frontend directory.
-2. Install dependencies -> npm install
-3. Run the ReactJS application -> npm start
+2. Install dependencies
+   ```bash
+   npm install
+4. Run the ReactJS application
+   ```bash
+   npm start
 
 ## Usage
 After starting both the backend and frontend, navigate to `http://localhost:3000` to use the application.

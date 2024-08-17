@@ -14,7 +14,7 @@ This project is a simple web application designed to manage user posts, comments
    ```bash
    mvn spring-boot:run
 
-###Frontend
+### Frontend
 1. Navigate to the frontend directory.
 2. Install dependencies -> npm install
 3. Run the ReactJS application -> npm start

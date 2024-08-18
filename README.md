@@ -30,4 +30,4 @@ After starting both the backend and frontend, navigate to `http://localhost:3000
 Contributions are welcome! Please submit a pull request or open an issue to discuss the changes you'd like to make.
 
 ## Authors
-- Mehmet Ali Gülyurdu (https://github.com/maligulyurdu)
+- Mehmet Ali Gülyurdu (maligulyurdu) (https://github.com/maligulyurdu)
